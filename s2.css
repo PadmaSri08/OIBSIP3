@@ -1,0 +1,42 @@
+ body{
+    background-image: url("tc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+  .converter {
+    max-width: 300px;
+    margin: 130px 180px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(242, 246, 247);
+  }
+  p{
+    font-size: 15px;
+  }
+  h2 {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  input, select,sel, button {
+    display: block;
+    margin: 10px 0;
+    width: 100%;
+    padding: 5px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #result {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+    
